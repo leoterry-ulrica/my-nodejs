@@ -11,5 +11,9 @@
     "utility"
   ],
   "author": "weifj",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.2",
+    "utility": "^1.11.0"
+  }
 }
